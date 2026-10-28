@@ -1,0 +1,8 @@
+Capturas opcionales de los sitios en producción.
+
+Si guardas aquí capturas con estos nombres, la página las muestra en lugar de las ilustraciones:
+  leadcem.jpg     (https://leadcem.com/#voz)
+  hormoland.jpg   (https://hormoland.com.mx/)
+  embiomed.jpg    (https://www.embiomedmx.com/)
+
+Tamaño recomendado: 1600 x 1000 px, en JPG.

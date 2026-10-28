@@ -1,0 +1,8 @@
+Maqueta del CRM de EMBIO con datos de ejemplo. No se conecta a ningún sistema ni base de datos.
+
+1-inicio-de-sesion.html   Inicio de sesión (en celular se acomoda solo)
+3-escritorio.html         Escritorio
+4-pedidos.html            Pedidos y detalle de pedido
+5-app-repartidor.html     App del repartidor
+
+Para recorrerla: escribe un correo con @ y dominio y cualquier contraseña, y pulsa "Entrar al CRM".
